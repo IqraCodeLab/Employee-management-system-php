@@ -9,7 +9,7 @@ A simple, modern, and fully responsive **Employee Management System** built usin
 
 Below is the single-page dashboard featuring both the Employee Form and live Employee Directory Table:
 
-![Employee Management System Preview](images/form.png)
+![Employee Management System Preview](https://raw.githubusercontent.com/IqraCodeLab/Employee-management-system-php/main/images/form.png)
 
 ---
 
